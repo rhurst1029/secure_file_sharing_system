@@ -1,7 +1,7 @@
 # Project 2 Design Doc
 
 **Ryan Hurst**  
-**3032757769**
+ 
 
 ---
 
